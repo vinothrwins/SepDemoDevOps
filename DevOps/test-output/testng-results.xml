@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigated to Register Demo Page]]>
+    </line>
+    <line>
+      <![CDATA[Register Title is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Register Title is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[The Register Title Text is: Register For Demo]]>
+    </line>
+    <line>
+      <![CDATA[First Name is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[First Name is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[The Present First Name Value is: Vinoth]]>
+    </line>
+    <line>
+      <![CDATA[Last Name is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Last Name is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[The Present Last Name Value is: Rathinam]]>
+    </line>
+    <line>
+      <![CDATA[Male Radio Button is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Male Radio Button is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Male Radio Button is not Selected]]>
+    </line>
+    <line>
+      <![CDATA[Male Radio Button is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Verified Male Radio Button  is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Street Address is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Street Address is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Street Address Value is: Saravana Flats]]>
+    </line>
+    <line>
+      <![CDATA[Apartment Number is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Apartment Number is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Apartment Number Value is: S2]]>
+    </line>
+    <line>
+      <![CDATA[City Name is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[City Name is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present City Name Value is : Chennai]]>
+    </line>
+    <line>
+      <![CDATA[State is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[State is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present State Value is : TamilNadu]]>
+    </line>
+    <line>
+      <![CDATA[Postal Code is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Postal Code is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Postal Code Value is : 600100]]>
+    </line>
+    <line>
+      <![CDATA[Verified Country Drop Down is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Verified Country Drop Down is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Country Drop Down Value is: India]]>
+    </line>
+    <line>
+      <![CDATA[Email is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Email is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Email Id is: vinothrwins@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Date of Demo is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Date of Demo is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Date of Demo Value is: 03/31/2021]]>
+    </line>
+    <line>
+      <![CDATA[Verified Hour DropDown is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Hour DropDown is Enabled ]]>
+    </line>
+    <line>
+      <![CDATA[Present Hour Drop Down Value is: 09]]>
+    </line>
+    <line>
+      <![CDATA[Verified Minute DropDown is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Verified Minute DropDown is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Minute Drop Down Value is: 30]]>
+    </line>
+    <line>
+      <![CDATA[Verified AMPM DropDown is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Verified AMPM DropDown is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present AMPM Drop Down Value is: PM]]>
+    </line>
+    <line>
+      <![CDATA[Mobile Number is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Mobile Number is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Mobile Number Value is: 6383544892]]>
+    </line>
+    <line>
+      <![CDATA[Verified Functional Testing Check Box is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Functional Testing Check Box is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Verified Functional Testing Check Box is Not Selected]]>
+    </line>
+    <line>
+      <![CDATA[Functional Testing Check Box is checked]]>
+    </line>
+    <line>
+      <![CDATA[Verified Functional Testing Check Box is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Verified Selenium WebDriver Check Box is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Selenium WebDriver Check Box is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Verified Selenium WebDriver Check Box is Not Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selenium WebDriver Check Box is Checked ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Selenium WebDriver Check Box is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Enter Your Query is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Your Query is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Enter Your Query is: When is Selenium Frame work ends?]]>
+    </line>
+    <line>
+      <![CDATA[Enter Any Two Digits is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Any Two Digits is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Enter Any Two Digits is:  50]]>
+    </line>
+    <line>
+      <![CDATA[Verified Submit Button is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Submit Button is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Submit Button is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Details are submitted]]>
+    </line>
+    <line>
+      <![CDATA[Successful Message Text is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Successful Message Text is:  Your query successfully submitted. Please check your mail box. Click on Home page to know more about latest updates.]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Register Demo Page]]>
+    </line>
+    <line>
+      <![CDATA[Register Title is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Register Title is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[The Register Title Text is: Register For Demo]]>
+    </line>
+    <line>
+      <![CDATA[First Name is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[First Name is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[The Present First Name Value is: Vinoth]]>
+    </line>
+    <line>
+      <![CDATA[Last Name is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Last Name is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[The Present Last Name Value is: Rathinam]]>
+    </line>
+    <line>
+      <![CDATA[Male Radio Button is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Male Radio Button is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Male Radio Button is not Selected]]>
+    </line>
+    <line>
+      <![CDATA[Male Radio Button is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Verified Male Radio Button  is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Street Address is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Street Address is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Street Address Value is: Saravana Flats]]>
+    </line>
+    <line>
+      <![CDATA[Apartment Number is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Apartment Number is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Apartment Number Value is: S2]]>
+    </line>
+    <line>
+      <![CDATA[City Name is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[City Name is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present City Name Value is : Chennai]]>
+    </line>
+    <line>
+      <![CDATA[State is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[State is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present State Value is : TamilNadu]]>
+    </line>
+    <line>
+      <![CDATA[Postal Code is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Postal Code is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Postal Code Value is : 600100]]>
+    </line>
+    <line>
+      <![CDATA[Verified Country Drop Down is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Verified Country Drop Down is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Country Drop Down Value is: India]]>
+    </line>
+    <line>
+      <![CDATA[Email is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Email is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Email Id is: vinothrwins@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Date of Demo is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Date of Demo is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Date of Demo Value is: 03/31/2021]]>
+    </line>
+    <line>
+      <![CDATA[Verified Hour DropDown is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Hour DropDown is Enabled ]]>
+    </line>
+    <line>
+      <![CDATA[Present Hour Drop Down Value is: 09]]>
+    </line>
+    <line>
+      <![CDATA[Verified Minute DropDown is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Verified Minute DropDown is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Minute Drop Down Value is: 30]]>
+    </line>
+    <line>
+      <![CDATA[Verified AMPM DropDown is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Verified AMPM DropDown is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present AMPM Drop Down Value is: PM]]>
+    </line>
+    <line>
+      <![CDATA[Mobile Number is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Mobile Number is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Mobile Number Value is: 6383544892]]>
+    </line>
+    <line>
+      <![CDATA[Verified Functional Testing Check Box is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Functional Testing Check Box is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Verified Functional Testing Check Box is Not Selected]]>
+    </line>
+    <line>
+      <![CDATA[Functional Testing Check Box is checked]]>
+    </line>
+    <line>
+      <![CDATA[Verified Functional Testing Check Box is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Verified Selenium WebDriver Check Box is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Selenium WebDriver Check Box is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Verified Selenium WebDriver Check Box is Not Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selenium WebDriver Check Box is Checked ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Selenium WebDriver Check Box is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Enter Your Query is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Your Query is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Present Enter Your Query is: When is Selenium Frame work ends?]]>
+    </line>
+    <line>
+      <![CDATA[Enter Any Two Digits is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Any Two Digits is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Enter Any Two Digits is:  50]]>
+    </line>
+    <line>
+      <![CDATA[Verified Submit Button is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Submit Button is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Submit Button is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Details are submitted]]>
+    </line>
+    <line>
+      <![CDATA[Successful Message Text is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Successful Message Text is:  Your query successfully submitted. Please check your mail box. Click on Home page to know more about latest updates.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-04-16T19:06:50 IST" name="Automation Suite" finished-at="2021-04-16T19:07:22 IST" duration-ms="32150">
+    <groups>
+    </groups>
+    <test started-at="2021-04-16T19:06:50 IST" name="Chrome Browser" finished-at="2021-04-16T19:07:04 IST" duration-ms="13931">
+      <class name="crossbrowser.RegisterDemoSelenium">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String, java.lang.String)[pri:0, instance:crossbrowser.RegisterDemoSelenium@33afa13b]" started-at="2021-04-16T19:06:50 IST" name="launchBrowser" finished-at="2021-04-16T19:06:58 IST" duration-ms="7806" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://nxtgenaiacademy.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="navigateToRegisterDemo()[pri:1, instance:crossbrowser.RegisterDemoSelenium@33afa13b]" started-at="2021-04-16T19:06:58 IST" name="navigateToRegisterDemo" finished-at="2021-04-16T19:07:00 IST" duration-ms="1914" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Register Demo Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToRegisterDemo -->
+        <test-method signature="registerDemo()[pri:2, instance:crossbrowser.RegisterDemoSelenium@33afa13b]" started-at="2021-04-16T19:07:00 IST" name="registerDemo" finished-at="2021-04-16T19:07:04 IST" duration-ms="4038" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Register Title is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Register Title is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[The Register Title Text is: Register For Demo]]>
+            </line>
+            <line>
+              <![CDATA[First Name is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[First Name is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[The Present First Name Value is: Vinoth]]>
+            </line>
+            <line>
+              <![CDATA[Last Name is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Last Name is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[The Present Last Name Value is: Rathinam]]>
+            </line>
+            <line>
+              <![CDATA[Male Radio Button is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Male Radio Button is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Male Radio Button is not Selected]]>
+            </line>
+            <line>
+              <![CDATA[Male Radio Button is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Verified Male Radio Button  is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Street Address is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Street Address is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Street Address Value is: Saravana Flats]]>
+            </line>
+            <line>
+              <![CDATA[Apartment Number is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Apartment Number is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Apartment Number Value is: S2]]>
+            </line>
+            <line>
+              <![CDATA[City Name is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[City Name is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present City Name Value is : Chennai]]>
+            </line>
+            <line>
+              <![CDATA[State is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[State is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present State Value is : TamilNadu]]>
+            </line>
+            <line>
+              <![CDATA[Postal Code is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Postal Code is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Postal Code Value is : 600100]]>
+            </line>
+            <line>
+              <![CDATA[Verified Country Drop Down is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Verified Country Drop Down is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Country Drop Down Value is: India]]>
+            </line>
+            <line>
+              <![CDATA[Email is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Email is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Email Id is: vinothrwins@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Date of Demo is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Date of Demo is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Date of Demo Value is: 03/31/2021]]>
+            </line>
+            <line>
+              <![CDATA[Verified Hour DropDown is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Hour DropDown is Enabled ]]>
+            </line>
+            <line>
+              <![CDATA[Present Hour Drop Down Value is: 09]]>
+            </line>
+            <line>
+              <![CDATA[Verified Minute DropDown is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Verified Minute DropDown is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Minute Drop Down Value is: 30]]>
+            </line>
+            <line>
+              <![CDATA[Verified AMPM DropDown is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Verified AMPM DropDown is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present AMPM Drop Down Value is: PM]]>
+            </line>
+            <line>
+              <![CDATA[Mobile Number is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Mobile Number is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Mobile Number Value is: 6383544892]]>
+            </line>
+            <line>
+              <![CDATA[Verified Functional Testing Check Box is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Functional Testing Check Box is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Verified Functional Testing Check Box is Not Selected]]>
+            </line>
+            <line>
+              <![CDATA[Functional Testing Check Box is checked]]>
+            </line>
+            <line>
+              <![CDATA[Verified Functional Testing Check Box is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Verified Selenium WebDriver Check Box is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Selenium WebDriver Check Box is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Verified Selenium WebDriver Check Box is Not Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selenium WebDriver Check Box is Checked ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Selenium WebDriver Check Box is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Enter Your Query is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Your Query is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Enter Your Query is: When is Selenium Frame work ends?]]>
+            </line>
+            <line>
+              <![CDATA[Enter Any Two Digits is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Any Two Digits is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Enter Any Two Digits is:  50]]>
+            </line>
+            <line>
+              <![CDATA[Verified Submit Button is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Submit Button is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Submit Button is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Details are submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registerDemo -->
+        <test-method signature="validateSuccessfulMsg()[pri:3, instance:crossbrowser.RegisterDemoSelenium@33afa13b]" started-at="2021-04-16T19:07:04 IST" name="validateSuccessfulMsg" finished-at="2021-04-16T19:07:04 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successful Message Text is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Successful Message Text is:  Your query successfully submitted. Please check your mail box. Click on Home page to know more about latest updates.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateSuccessfulMsg -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:crossbrowser.RegisterDemoSelenium@33afa13b]" started-at="2021-04-16T19:07:04 IST" name="closeApplication" finished-at="2021-04-16T19:07:04 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- crossbrowser.RegisterDemoSelenium -->
+    </test> <!-- Chrome Browser -->
+    <test started-at="2021-04-16T19:07:04 IST" name="Firefox Browser" finished-at="2021-04-16T19:07:22 IST" duration-ms="18124">
+      <class name="crossbrowser.RegisterDemoSelenium">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String, java.lang.String)[pri:0, instance:crossbrowser.RegisterDemoSelenium@670002]" started-at="2021-04-16T19:07:04 IST" name="launchBrowser" finished-at="2021-04-16T19:07:13 IST" duration-ms="8802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://nxtgenaiacademy.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="navigateToRegisterDemo()[pri:1, instance:crossbrowser.RegisterDemoSelenium@670002]" started-at="2021-04-16T19:07:13 IST" name="navigateToRegisterDemo" finished-at="2021-04-16T19:07:14 IST" duration-ms="1541" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Register Demo Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToRegisterDemo -->
+        <test-method signature="registerDemo()[pri:2, instance:crossbrowser.RegisterDemoSelenium@670002]" started-at="2021-04-16T19:07:14 IST" name="registerDemo" finished-at="2021-04-16T19:07:20 IST" duration-ms="5081" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Register Title is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Register Title is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[The Register Title Text is: Register For Demo]]>
+            </line>
+            <line>
+              <![CDATA[First Name is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[First Name is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[The Present First Name Value is: Vinoth]]>
+            </line>
+            <line>
+              <![CDATA[Last Name is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Last Name is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[The Present Last Name Value is: Rathinam]]>
+            </line>
+            <line>
+              <![CDATA[Male Radio Button is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Male Radio Button is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Male Radio Button is not Selected]]>
+            </line>
+            <line>
+              <![CDATA[Male Radio Button is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Verified Male Radio Button  is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Street Address is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Street Address is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Street Address Value is: Saravana Flats]]>
+            </line>
+            <line>
+              <![CDATA[Apartment Number is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Apartment Number is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Apartment Number Value is: S2]]>
+            </line>
+            <line>
+              <![CDATA[City Name is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[City Name is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present City Name Value is : Chennai]]>
+            </line>
+            <line>
+              <![CDATA[State is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[State is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present State Value is : TamilNadu]]>
+            </line>
+            <line>
+              <![CDATA[Postal Code is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Postal Code is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Postal Code Value is : 600100]]>
+            </line>
+            <line>
+              <![CDATA[Verified Country Drop Down is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Verified Country Drop Down is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Country Drop Down Value is: India]]>
+            </line>
+            <line>
+              <![CDATA[Email is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Email is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Email Id is: vinothrwins@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Date of Demo is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Date of Demo is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Date of Demo Value is: 03/31/2021]]>
+            </line>
+            <line>
+              <![CDATA[Verified Hour DropDown is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Hour DropDown is Enabled ]]>
+            </line>
+            <line>
+              <![CDATA[Present Hour Drop Down Value is: 09]]>
+            </line>
+            <line>
+              <![CDATA[Verified Minute DropDown is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Verified Minute DropDown is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Minute Drop Down Value is: 30]]>
+            </line>
+            <line>
+              <![CDATA[Verified AMPM DropDown is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Verified AMPM DropDown is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present AMPM Drop Down Value is: PM]]>
+            </line>
+            <line>
+              <![CDATA[Mobile Number is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Mobile Number is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Mobile Number Value is: 6383544892]]>
+            </line>
+            <line>
+              <![CDATA[Verified Functional Testing Check Box is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Functional Testing Check Box is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Verified Functional Testing Check Box is Not Selected]]>
+            </line>
+            <line>
+              <![CDATA[Functional Testing Check Box is checked]]>
+            </line>
+            <line>
+              <![CDATA[Verified Functional Testing Check Box is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Verified Selenium WebDriver Check Box is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Selenium WebDriver Check Box is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Verified Selenium WebDriver Check Box is Not Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selenium WebDriver Check Box is Checked ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Selenium WebDriver Check Box is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Enter Your Query is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Your Query is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Present Enter Your Query is: When is Selenium Frame work ends?]]>
+            </line>
+            <line>
+              <![CDATA[Enter Any Two Digits is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Any Two Digits is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Enter Any Two Digits is:  50]]>
+            </line>
+            <line>
+              <![CDATA[Verified Submit Button is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Submit Button is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Submit Button is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Details are submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registerDemo -->
+        <test-method signature="validateSuccessfulMsg()[pri:3, instance:crossbrowser.RegisterDemoSelenium@670002]" started-at="2021-04-16T19:07:20 IST" name="validateSuccessfulMsg" finished-at="2021-04-16T19:07:20 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successful Message Text is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Successful Message Text is:  Your query successfully submitted. Please check your mail box. Click on Home page to know more about latest updates.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateSuccessfulMsg -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:crossbrowser.RegisterDemoSelenium@670002]" started-at="2021-04-16T19:07:20 IST" name="closeApplication" finished-at="2021-04-16T19:07:22 IST" duration-ms="2642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- crossbrowser.RegisterDemoSelenium -->
+    </test> <!-- Firefox Browser -->
+  </suite> <!-- Automation Suite -->
+</testng-results>

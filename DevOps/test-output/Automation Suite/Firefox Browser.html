@@ -1,0 +1,291 @@
+<html>
+<head>
+<title>TestNG:  Firefox Browser</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Firefox Browser</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Apr 16 19:07:04 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>18 seconds (18124 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='crossbrowser.RegisterDemoSelenium.navigateToRegisterDemo()'><b>navigateToRegisterDemo</b><br>Test class: crossbrowser.RegisterDemoSelenium<br/>
+<a href="#Output-2066892165" onClick='toggleBox("Output-2066892165", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2066892165" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2066892165">
+Navigated to Register Demo Page<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>crossbrowser.RegisterDemoSelenium@33afa13b</td></tr>
+<tr>
+<td title='crossbrowser.RegisterDemoSelenium.navigateToRegisterDemo()'><b>navigateToRegisterDemo</b><br>Test class: crossbrowser.RegisterDemoSelenium<br/>
+<a href="#Output-1238994373" onClick='toggleBox("Output-1238994373", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1238994373" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1238994373">
+Navigated to Register Demo Page<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>crossbrowser.RegisterDemoSelenium@670002</td></tr>
+<tr>
+<td title='crossbrowser.RegisterDemoSelenium.registerDemo()'><b>registerDemo</b><br>Test class: crossbrowser.RegisterDemoSelenium<br/>
+<a href="#Output-911501858" onClick='toggleBox("Output-911501858", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-911501858" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-911501858">
+Register Title is Displayed<br/>
+Register Title is Enabled<br/>
+The Register Title Text is: Register For Demo<br/>
+First Name is Displayed<br/>
+First Name is Enabled<br/>
+The Present First Name Value is: Vinoth<br/>
+Last Name is Displayed<br/>
+Last Name is Enabled<br/>
+The Present Last Name Value is: Rathinam<br/>
+Male Radio Button is Displayed<br/>
+Male Radio Button is Enabled<br/>
+Male Radio Button is not Selected<br/>
+Male Radio Button is Selected<br/>
+Verified Male Radio Button  is Selected<br/>
+Street Address is Displayed<br/>
+Street Address is Enabled<br/>
+Present Street Address Value is: Saravana Flats<br/>
+Apartment Number is Displayed<br/>
+Apartment Number is Enabled<br/>
+Present Apartment Number Value is: S2<br/>
+City Name is Displayed<br/>
+City Name is Enabled<br/>
+Present City Name Value is : Chennai<br/>
+State is Displayed<br/>
+State is Enabled<br/>
+Present State Value is : TamilNadu<br/>
+Postal Code is Displayed<br/>
+Postal Code is Enabled<br/>
+Present Postal Code Value is : 600100<br/>
+Verified Country Drop Down is Displayed<br/>
+Verified Country Drop Down is enabled<br/>
+Present Country Drop Down Value is: India<br/>
+Email is Displayed<br/>
+Email is Enabled<br/>
+Present Email Id is: vinothrwins@gmail.com<br/>
+Date of Demo is Displayed<br/>
+Date of Demo is Enabled<br/>
+Present Date of Demo Value is: 03/31/2021<br/>
+Verified Hour DropDown is Displayed <br/>
+Verified Hour DropDown is Enabled <br/>
+Present Hour Drop Down Value is: 09<br/>
+Verified Minute DropDown is Displayed<br/>
+Verified Minute DropDown is Enabled<br/>
+Present Minute Drop Down Value is: 30<br/>
+Verified AMPM DropDown is Displayed<br/>
+Verified AMPM DropDown is Enabled<br/>
+Present AMPM Drop Down Value is: PM<br/>
+Mobile Number is Displayed<br/>
+Mobile Number is Enabled<br/>
+Present Mobile Number Value is: 6383544892<br/>
+Verified Functional Testing Check Box is Displayed <br/>
+Verified Functional Testing Check Box is Enabled<br/>
+Verified Functional Testing Check Box is Not Selected<br/>
+Functional Testing Check Box is checked<br/>
+Verified Functional Testing Check Box is Selected<br/>
+Verified Selenium WebDriver Check Box is Displayed <br/>
+Verified Selenium WebDriver Check Box is Enabled<br/>
+Verified Selenium WebDriver Check Box is Not Selected<br/>
+Selenium WebDriver Check Box is Checked <br/>
+Verified Selenium WebDriver Check Box is Selected<br/>
+Enter Your Query is Displayed<br/>
+Enter Your Query is Enabled<br/>
+Present Enter Your Query is: When is Selenium Frame work ends?<br/>
+Enter Any Two Digits is Displayed<br/>
+Enter Any Two Digits is Enabled<br/>
+Enter Any Two Digits is:  50<br/>
+Verified Submit Button is Displayed <br/>
+Verified Submit Button is Enabled<br/>
+Submit Button is Clicked<br/>
+Details are submitted<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>crossbrowser.RegisterDemoSelenium@33afa13b</td></tr>
+<tr>
+<td title='crossbrowser.RegisterDemoSelenium.registerDemo()'><b>registerDemo</b><br>Test class: crossbrowser.RegisterDemoSelenium<br/>
+<a href="#Output-75356024" onClick='toggleBox("Output-75356024", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-75356024" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-75356024">
+Register Title is Displayed<br/>
+Register Title is Enabled<br/>
+The Register Title Text is: Register For Demo<br/>
+First Name is Displayed<br/>
+First Name is Enabled<br/>
+The Present First Name Value is: Vinoth<br/>
+Last Name is Displayed<br/>
+Last Name is Enabled<br/>
+The Present Last Name Value is: Rathinam<br/>
+Male Radio Button is Displayed<br/>
+Male Radio Button is Enabled<br/>
+Male Radio Button is not Selected<br/>
+Male Radio Button is Selected<br/>
+Verified Male Radio Button  is Selected<br/>
+Street Address is Displayed<br/>
+Street Address is Enabled<br/>
+Present Street Address Value is: Saravana Flats<br/>
+Apartment Number is Displayed<br/>
+Apartment Number is Enabled<br/>
+Present Apartment Number Value is: S2<br/>
+City Name is Displayed<br/>
+City Name is Enabled<br/>
+Present City Name Value is : Chennai<br/>
+State is Displayed<br/>
+State is Enabled<br/>
+Present State Value is : TamilNadu<br/>
+Postal Code is Displayed<br/>
+Postal Code is Enabled<br/>
+Present Postal Code Value is : 600100<br/>
+Verified Country Drop Down is Displayed<br/>
+Verified Country Drop Down is enabled<br/>
+Present Country Drop Down Value is: India<br/>
+Email is Displayed<br/>
+Email is Enabled<br/>
+Present Email Id is: vinothrwins@gmail.com<br/>
+Date of Demo is Displayed<br/>
+Date of Demo is Enabled<br/>
+Present Date of Demo Value is: 03/31/2021<br/>
+Verified Hour DropDown is Displayed <br/>
+Verified Hour DropDown is Enabled <br/>
+Present Hour Drop Down Value is: 09<br/>
+Verified Minute DropDown is Displayed<br/>
+Verified Minute DropDown is Enabled<br/>
+Present Minute Drop Down Value is: 30<br/>
+Verified AMPM DropDown is Displayed<br/>
+Verified AMPM DropDown is Enabled<br/>
+Present AMPM Drop Down Value is: PM<br/>
+Mobile Number is Displayed<br/>
+Mobile Number is Enabled<br/>
+Present Mobile Number Value is: 6383544892<br/>
+Verified Functional Testing Check Box is Displayed <br/>
+Verified Functional Testing Check Box is Enabled<br/>
+Verified Functional Testing Check Box is Not Selected<br/>
+Functional Testing Check Box is checked<br/>
+Verified Functional Testing Check Box is Selected<br/>
+Verified Selenium WebDriver Check Box is Displayed <br/>
+Verified Selenium WebDriver Check Box is Enabled<br/>
+Verified Selenium WebDriver Check Box is Not Selected<br/>
+Selenium WebDriver Check Box is Checked <br/>
+Verified Selenium WebDriver Check Box is Selected<br/>
+Enter Your Query is Displayed<br/>
+Enter Your Query is Enabled<br/>
+Present Enter Your Query is: When is Selenium Frame work ends?<br/>
+Enter Any Two Digits is Displayed<br/>
+Enter Any Two Digits is Enabled<br/>
+Enter Any Two Digits is:  50<br/>
+Verified Submit Button is Displayed <br/>
+Verified Submit Button is Enabled<br/>
+Submit Button is Clicked<br/>
+Details are submitted<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>crossbrowser.RegisterDemoSelenium@670002</td></tr>
+<tr>
+<td title='crossbrowser.RegisterDemoSelenium.validateSuccessfulMsg()'><b>validateSuccessfulMsg</b><br>Test class: crossbrowser.RegisterDemoSelenium<br/>
+<a href="#Output-280223635" onClick='toggleBox("Output-280223635", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-280223635" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-280223635">
+Successful Message Text is Displayed<br/>
+The Successful Message Text is:  Your query successfully submitted. Please check your mail box. Click on Home page to know more about latest updates.<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>crossbrowser.RegisterDemoSelenium@33afa13b</td></tr>
+<tr>
+<td title='crossbrowser.RegisterDemoSelenium.validateSuccessfulMsg()'><b>validateSuccessfulMsg</b><br>Test class: crossbrowser.RegisterDemoSelenium<br/>
+<a href="#Output-124376339" onClick='toggleBox("Output-124376339", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-124376339" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-124376339">
+Successful Message Text is Displayed<br/>
+The Successful Message Text is:  Your query successfully submitted. Please check your mail box. Click on Home page to know more about latest updates.<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>crossbrowser.RegisterDemoSelenium@670002</td></tr>
+</table><p>
+</body>
+</html>

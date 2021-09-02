@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Automation Suite">
+
+  <test name="Chrome Browser">
+  <parameter name = "browser" value = "chrome" />
+  <parameter name = "url" value = "https://nxtgenaiacademy.com/" />
+  
+    <classes>
+      <class name="crossbrowser.RegisterDemoSelenium"/>
+           <class name="crossbrowser.RegisterDemoSelenium"/>           
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Firefox Browser">
+  <parameter name = "browser" value = "firefox" />
+  <parameter name = "url" value = "https://nxtgenaiacademy.com/" />
+  
+    <classes>
+      <class name="crossbrowser.RegisterDemoSelenium"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
